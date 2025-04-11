@@ -3,7 +3,8 @@
 
 ## Welcome!
 I'm very excited to present the Capsule Monster Coliseum randomizer! This will allow you to shuffle up all sorts of elements from the main game and play through it as if it was a brand new experience!  
-All you will need is an official NTSC Yu-Gi-Oh Capsule Monster game, or the ReCap mod (coming soon).
+All you will need is an official NTSC Yu-Gi-Oh Capsule Monster game, or the ReCap mod (coming soon).  
+**Keep in mind, this will permanently alter your game. It's advisable to create a copy before running the randomizer!**
 
 ## Support
 Any generous contribution is appreciated. Creating software like this takes a lot of time and energy. Any form of support, such as buying me a hot chocolate, is a great way to do so.  
