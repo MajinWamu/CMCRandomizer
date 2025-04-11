@@ -1,0 +1,4 @@
+1.0
+------------------------------
+Initial release. 
+The player can randomize monsters (both and red and blue sides), levels, symbol types, monsters that appear in the shop, end game rewards, movement and attack patterns.
