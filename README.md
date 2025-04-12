@@ -2,17 +2,17 @@
 ![image](https://github.com/user-attachments/assets/ddb9b458-3fe2-4c2c-8ffb-2117b4285d0d)
 
 ## Welcome!
-I'm very excited to present the Capsule Monster Coliseum randomizer! This will allow you to shuffle up all sorts of elements from the main game and play through it as if it was a brand new experience!  
-All you will need is an official NTSC Yu-Gi-Oh Capsule Monster game, or the ReCap mod (coming soon).
+I'm very excited to present the Capsule Monster Coliseum Randomizer! This will allow you to shuffle up all sorts of elements from the main game and play through it as if it was a brand new experience!  
+All you will need is an official NTSC Yu-Gi-Oh Capsule Monster Coliseum game, or the ReCap mod (coming soon).
 
 ## Support
 Any generous contribution is appreciated. Creating software like this takes a lot of time and energy. Any form of support, such as buying me a hot chocolate, is a great way to do so.  
 Your contribution will keep me going and allow me to create more awesome software like this for all to enjoy!  
-[Support](buymeacoffee.com/majinwamu)
+[Support Link](buymeacoffee.com/majinwamu)
 
 # Features
 ### Seeds
-There are two parts to a seed. The first part is the seed reference number for the random generator. A seed is used to generate the same pRNG sequence of numbers, but it will not give the exact same outcome unless you also use the second part of the seed, which is the options pattern. With these two inserted together, you and your friend(s) can play the exact same layout. This is great for competition or racing purposes, or just to experience the setup. If you have the setup code, click on the Apply Settings button for the options to automatically be selected in the application.
+There are two parts to a seed. The first part is the seed reference number for the random generator. A seed is used to generate the same pRNG sequence of numbers, but it will not give the exact same outcome unless you either use the exact same setting, or, for your convenience, use the second part of the seed, which is the options pattern. With these two inserted together, you and your friend(s) can play the exact same layout. This is great for competition or racing purposes, or just to experience the setup. If you have the setup code, click on the Apply Settings button for the options to automatically be selected in the application.
 
 ### Quick Options
 This will quickly randomize all elements of the same category. selecting one of these boxes will automatically tick relevant boxes.
