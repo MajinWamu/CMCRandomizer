@@ -1,5 +1,6 @@
 # Capsule Monster Coliseum Randomizer!
-![image](https://github.com/user-attachments/assets/ddb9b458-3fe2-4c2c-8ffb-2117b4285d0d)
+![image](https://github.com/user-attachments/assets/109cd8b3-cbd9-4a78-881a-3fd3014cbbd3)  
+Screenshot of the V1.2
 
 ## Welcome!
 I'm very excited to present the Capsule Monster Coliseum Randomizer! This will allow you to shuffle up all sorts of elements from the main game and play through it as if it was a brand new experience!  
@@ -21,7 +22,7 @@ This will quickly randomize all elements of the same category. selecting one of 
 This tab will allow you to select which opponent's lineups you want shuffled. This will shuffle both the blue and red side separately. In other words, if you play on the blue side during your initial playthrough, try to play through the red side to experience a completely different lineup. (Excellent for new game+)
 
 ### Levels
-This tab will allow you to select if you want to randomize the opponent's monster's levels. You can even choose how high you want their level to reach. These options are great for even when you don't want to randomize the monsters, but just want to play the base game with an increased challenge.
+This tab will allow you to select if you want to randomize particular opponent's monster levels. You can select the range of the levels (the minimum and maximum level). These options are great for even when you don't want to randomize the monsters, but just want to play the base game with an increased challenge.
 
 ### Options
 Extra options. More to come
@@ -32,6 +33,7 @@ You can randomize each of the monster's movement and attack patterns, creating a
 ### Features Coming Soon
 * The ability to have each opponent have unique monsters, no two opponents will have the same monsters (this is only relevant to the color side).
 * The ability to omit and add particular monsters.
+* Smart Symbols: Symbol types will be changed based off the number of a certain attribute the opponent has. More wood will generate a wood symbol.
 * The ability to randomize or remove unit limits. This option I’ll need more time to study. Making the unit limit too high can soft lock you if you select too many monsters. It was an original feature, but I had to remove it for now.
 
 ### Have questions? Comments? Ideas?
