@@ -1,5 +1,5 @@
 # Capsule Monster Coliseum Randomizer!
-![image](https://github.com/user-attachments/assets/e1a6c758-779a-4366-bf3a-70adf1e40e6a)
+![image](https://github.com/user-attachments/assets/e1a6c758-779a-4366-bf3a-70adf1e40e6a)  
 Screenshot of the V1.4
 
 ## Welcome!
