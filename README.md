@@ -1,6 +1,6 @@
 # Capsule Monster Coliseum Randomizer!
-![image](https://github.com/user-attachments/assets/109cd8b3-cbd9-4a78-881a-3fd3014cbbd3)  
-Screenshot of the V1.2
+![image](https://github.com/user-attachments/assets/e1a6c758-779a-4366-bf3a-70adf1e40e6a)
+Screenshot of the V1.4
 
 ## Welcome!
 I'm very excited to present the Capsule Monster Coliseum Randomizer! This will allow you to shuffle up all sorts of elements from the main game and play through it as if it was a brand new experience!  
@@ -18,6 +18,10 @@ There are two parts to a seed. The first part is the seed reference number for t
 ### Quick Options
 This will quickly randomize all elements of the same category. selecting one of these boxes will automatically tick relevant boxes.
 
+### Monsters
+Currently this section gives you additional options you can set when randomizing monsters, but in a future release you will be able to individually add and remove monsters from the main game.  
+The current settings allow you to include the 77 unsupported monsters, omit fusions and evolutions from the shuffle, and shuffle each monster's class and their attribute. With these settings are your disposal, you can create a completely unique experience unlike any you've had so far, increasing the reliability of the game nearly infinitely!
+
 ### Opponents
 This tab will allow you to select which opponent's lineups you want shuffled. This will shuffle both the blue and red side separately. In other words, if you play on the blue side during your initial playthrough, try to play through the red side to experience a completely different lineup. (Excellent for new game+)
 
@@ -25,7 +29,7 @@ This tab will allow you to select which opponent's lineups you want shuffled. Th
 This tab will allow you to select if you want to randomize particular opponent's monster levels. You can select the range of the levels (the minimum and maximum level). These options are great for even when you don't want to randomize the monsters, but just want to play the base game with an increased challenge.
 
 ### Options
-Extra options. More to come
+These are general options that don't fit in individual sections. Currently they include giving the ability to remove each level's MP and AP limits. More options to come in future releases.
 
 ### Other things
 You can randomize each of the monster's movement and attack patterns, creating a completely new experience, treating the game as if it was the first time you have ever played it!
