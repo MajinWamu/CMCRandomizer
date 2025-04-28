@@ -37,7 +37,6 @@ You can randomize each of the monster's movement and attack patterns, creating a
 ### Features Coming Soon
 * The ability to have each opponent have unique monsters, no two opponents will have the same monsters (this is only relevant to the color side).
 * The ability to omit and add particular monsters.
-* Smart Symbols: Symbol types will be changed based off the number of a certain attribute the opponent has. More wood will generate a wood symbol.
 * The ability to randomize or remove unit limits. This option I’ll need more time to study. Making the unit limit too high can soft lock you if you select too many monsters. It was an original feature, but I had to remove it for now.
 
 ### Have questions? Comments? Ideas?
