@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="X-u9Qg-xMe2PJkH6oRDz_F99fM84QnPjwQxiPrLJ6cM" />
 # Capsule Monster Coliseum Randomizer!
 ![image](https://github.com/user-attachments/assets/bc0d002f-4672-4261-84a4-98690d629687)  
 Screenshot of V1.7
@@ -46,3 +45,5 @@ You can reach out to me on discord, just look for Majin Wamu. My icon is the sam
 ### Special Thanks
 I want to thank ManakoDE for opening my mind to the bigger world of reverse engineering. It was by chance that we met, and I'm forever thankful. None of this wouldn't had been possible if it wasn't for him.  
 I also want to thank my wife who supports me every step of the way in everything I do, even if it leads to nothing. Thank you ♥
+
+<meta name="google-site-verification" content="X-u9Qg-xMe2PJkH6oRDz_F99fM84QnPjwQxiPrLJ6cM" />
