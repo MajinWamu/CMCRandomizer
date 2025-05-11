@@ -1,6 +1,6 @@
 # Capsule Monster Coliseum Randomizer!
-![image](https://github.com/user-attachments/assets/ea293c52-e05d-46a7-abe6-3ef3fa7adaad)  
-Screenshot of the V1.6
+![image](https://github.com/user-attachments/assets/bc0d002f-4672-4261-84a4-98690d629687)  
+Screenshot of V1.7
 
 ## Welcome!
 I'm very excited to present the Capsule Monster Coliseum Randomizer! This will allow you to shuffle up all sorts of elements from the main game and play through it as if it was a brand new experience!  
