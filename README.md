@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="X-u9Qg-xMe2PJkH6oRDz_F99fM84QnPjwQxiPrLJ6cM" />
 # Capsule Monster Coliseum Randomizer!
 ![image](https://github.com/user-attachments/assets/bc0d002f-4672-4261-84a4-98690d629687)  
 Screenshot of V1.7
