@@ -2,12 +2,13 @@
   <meta name="google-site-verification" content="X-u9Qg-xMe2PJkH6oRDz_F99fM84QnPjwQxiPrLJ6cM" />
 </head>
 
-# Capsule Monster Coliseum Randomizer!
-![image](https://github.com/user-attachments/assets/bc0d002f-4672-4261-84a4-98690d629687)  
-Screenshot of V1.7
+# Capsule Monster Coliseum Randomizer!  
+![image](https://github.com/user-attachments/assets/287c56ac-d172-4894-8810-ee2431f9dbec) 
+![image](https://github.com/user-attachments/assets/689069ed-a181-4607-8262-ab322a7eed7c)  
+Screenshot of the V2.0 Randomizer and Modifier Tabs    
 
 ## Welcome!
-I'm very excited to present the Capsule Monster Coliseum Randomizer! This will allow you to shuffle up all sorts of elements from the main game and play through it as if it was a brand new experience!  
+I'm very excited to present the Capsule Monster Coliseum Master Modifier! This will allow you to shuffle and modify up all sorts of elements from the main game and play through it as if it was a brand new experience!  
 All you will need is an official NTSC Yu-Gi-Oh Capsule Monster Coliseum game, or the ReCap mod (coming soon).
 
 ## Support
@@ -15,7 +16,12 @@ Any generous contribution is appreciated. Creating software like this takes a lo
 Your contribution will keep me going and allow me to create more awesome software like this for all to enjoy!  
 [Support Link](buymeacoffee.com/majinwamu)
 
-# Features
+# Modifier  
+## Features  
+The Modifier tab will allow you to create your own lineup of monsters for each opponent. Additional options include the ability to edit the monster's levels, Symbol attribute and effect power.  
+
+# Randomizer
+## Features
 ### Seeds
 There are two parts to a seed. The first part is the seed reference number for the random generator. A seed is used to generate the same pRNG sequence of numbers, but it will not give the exact same outcome unless you either use the exact same setting, or, for your convenience, use the second part of the seed, which is the options pattern. With these two inserted together, you and your friend(s) can play the exact same layout. This is great for competition or racing purposes, or just to experience the setup. If you have the setup code, click on the Apply Settings button for the options to automatically be selected in the application.
 
@@ -42,6 +48,8 @@ More options to come in future releases.
 ### Features Coming Soon
 * The ability to omit and add particular monsters.
 * The ability to randomize or remove unit limits. This option I’ll need more time to study. Making the unit limit too high can soft lock you if you select too many monsters. It was an original feature, but I had to remove it for now.
+* Adjust shops to your liking.
+* Edit monster's stats.
 
 ### Have questions? Comments? Ideas?
 You can reach out to me on discord, just look for Majin Wamu. My icon is the same there as it is here. I look forward to hearing from you!
