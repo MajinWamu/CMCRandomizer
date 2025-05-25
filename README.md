@@ -14,7 +14,7 @@ All you will need is an official NTSC Yu-Gi-Oh Capsule Monster Coliseum game, or
 ## Support
 Any generous contribution is appreciated. Creating software like this takes a lot of time and energy. Any form of support, such as buying me a hot chocolate, is a great way to do so.  
 Your contribution will keep me going and allow me to create more awesome software like this for all to enjoy!  
-[Support Link](buymeacoffee.com/majinwamu)
+[Support Link](https://buymeacoffee.com/majinwamu)
 
 # Modifier  
 ## Features  
