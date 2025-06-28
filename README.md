@@ -10,6 +10,7 @@ Screenshot of the V2.0 Randomizer and Modifier Tabs
 ## Welcome!
 I'm very excited to present the Capsule Monster Coliseum Master Modifier! This will allow you to shuffle and modify up all sorts of elements from the main game and play through it as if it was a brand new experience!  
 All you will need is an official NTSC Yu-Gi-Oh Capsule Monster Coliseum game, or the ReCap mod (coming soon).
+Get the latest version from [Download Link](https://github.com/MajinWamu/CMCRandomizer/releases)
 
 ## Support
 Any generous contribution is appreciated. Creating software like this takes a lot of time and energy. Any form of support, such as buying me a hot chocolate, is a great way to do so.  
